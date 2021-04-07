@@ -1,0 +1,4 @@
+﻿  Homework7.cpp
+C:\GB\OsnovaC\Homework7\Homework7.cpp(39,15): error C2678: бинарный "<": не найден оператор, принимающий левый операнд типа "std::basic_ostream<char,std::char_traits<char>>" (или приемлемое преобразование отсутствует)
+C:\GB\OsnovaC\Homework7\Homework7.cpp(39,15): message : может быть "встроенный оператор C++<(int, int)"
+C:\GB\OsnovaC\Homework7\Homework7.cpp(39,15): message : при попытке сопоставить список аргументов "(std::basic_ostream<char,std::char_traits<char>>, int)"
